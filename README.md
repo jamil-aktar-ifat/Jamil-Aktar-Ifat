@@ -4,7 +4,7 @@
 
 <!-- Striking Name Header with Custom Styling -->
 <h1>
-  Hi, I'm <span style="background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Jamil Ifat</span>
+  Hi, I'm <span style="background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Jamil Ifat!</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
